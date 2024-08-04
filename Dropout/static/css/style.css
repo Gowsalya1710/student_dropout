@@ -1,0 +1,39 @@
+
+.nav-link{
+  color: white;
+  margin: 5px;
+}
+.pannel{
+  width: 90%;
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  grid-template-columns: auto auto;
+  position: relative;
+  left: 5%;
+  bottom: 5%;
+}
+.pa p{
+  width: 80%;
+  font-size: 20px;
+  font-weight: bold;
+}
+.pa a{
+  text-decoration: none;
+  
+  padding: 2px 10px;
+  font-size: 25px;
+  border-radius: 20px;
+}
+.pa img{
+  width: 80%;
+  position: relative;
+  top: 20%;
+
+}
+.about{
+  width: 90%;
+  position: relative;
+  left: 5%;
+  bottom: 0%;
+}
